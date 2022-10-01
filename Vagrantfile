@@ -1,7 +1,6 @@
 
 
 
-HOME_DISK = "D:/diskbox/2.vmdk"
 
 
 
